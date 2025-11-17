@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\INS-600\laboratorio14\027_SistemaBibliotecaASPMVC-main\ClassLibrary6\bin\Debug\ClassLibrary6.dll
+C:\Users\Asus\Desktop\INS-600\laboratorio14\027_SistemaBibliotecaASPMVC-main\ClassLibrary6\bin\Debug\ClassLibrary6.pdb
+C:\Users\Asus\Desktop\INS-600\laboratorio14\027_SistemaBibliotecaASPMVC-main\ClassLibrary6\obj\Debug\ClassLibrary6.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\INS-600\laboratorio14\027_SistemaBibliotecaASPMVC-main\ClassLibrary6\obj\Debug\ClassLibrary6.dll
+C:\Users\Asus\Desktop\INS-600\laboratorio14\027_SistemaBibliotecaASPMVC-main\ClassLibrary6\obj\Debug\ClassLibrary6.pdb
